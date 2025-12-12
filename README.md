@@ -67,8 +67,8 @@ The main goal is to prepare and organize Airbnb data through a systematic approa
 └── Organizing_and_analyzing_Airbnb_data/
     ├── data/
     │   ├── listings_cleaned.csv          # Original listings dataset
-    │   ├── reviews.csv                   # Original reviews dataset
-    │   └── airbnb_data_cleaned_final.csv # Final processed dataset
+    │   └── reviews.csv                   # Original reviews dataset
+    │   
     ├── main.ipynb                        # Main project notebook
     ├── README.md                         # Project documentation
     └── LICENSE.md                        # License information
