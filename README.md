@@ -756,8 +756,8 @@ jupyter>=1.0.0
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/airbnb-rio-analysis.git
-cd airbnb-rio-analysis/Organizing_and_analyzing_Airbnb_data
+git clone https://github.com/Laurentius96/Organizing_and_analyzing_Airbnb_data.git
+cd Organizing_and_analyzing_Airbnb_data
 ```
 
 2. **Create virtual environment** (recommended):
@@ -1483,12 +1483,10 @@ For more details, see the [LICENSE.md](LICENSE.md) file or visit [Creative Commo
 
 ## 👤 Author
 
-**Bianca Lorenzo**
+**Lorenzo C. Bianchi**
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 📊 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 💼 LinkedIn: [linkedin.com/in/cb-lorenzo](https://www.linkedin.com/in/cb-lorenzo/)
+- 🐙 GitHub: [@Laurentius96](https://github.com/Laurentius96)
 
 ---
 
@@ -1651,7 +1649,7 @@ Both are kept in the final dataset for flexibility.
 
 <div align="center">
   <h3>⭐ If you found this project helpful, please consider giving it a star! ⭐</h3>
-  <p>Made with ❤️ and ☕ by Bianca Lorenzo</p>
+  <p>Made with ❤️ and ☕ by Lorenzo C. Bianchi</p>
   <p><sub>Last Updated: December 12, 2024</sub></p>
   
   <br>
